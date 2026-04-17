@@ -30,7 +30,3 @@ The radio signals are processed through software such as **SatDump**. The softwa
 The final step is decrypting the captured signal into a usable image. Below is an example of the type of imagery captured from NOAA satellites.
 
 ![NOAA Satellite Image Example](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPXeU6pjg2EfojMu8Z_feOOOtfhPuPZ1iLA&s)
-
-## 📁 Repository Structure
-* `/CAD` - 3D models for antenna supports and electronics housing.
-* `/Designs` - Technical drawings and wiring schematics.
