@@ -1,5 +1,4 @@
 # Satellite Image Receiving Station
-**Developed by [Dhairya Khanna](https://github.com/YOUR_GITHUB_USERNAME)**
 
 This repository contains the CAD models, designs, and technical documentation for a DIY satellite image receiving station.
 
