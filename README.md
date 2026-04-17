@@ -1,6 +1,6 @@
 # Satellite Image Receiving Station
 
-This repository contains the CAD models, designs, and technical documentation for a DIY satellite image receiving station.
+This repository contains the CAD models, designs, and technical documentation for a DIY satellite image receiving station. btw the full design is there in the file- **Laptop with RTL SDR v4.FCStd** and the single antenna is in the other **Main Antenna** File
 
 ## Overview
 This project is designed to track and receive signals from polar-orbiting satellites (such as NOAA and Meteor-M series) to decode real-time weather imagery.
