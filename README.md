@@ -3,10 +3,10 @@
 
 This repository contains the CAD models, designs, and technical documentation for a DIY satellite image receiving station.
 
-## 📡 Overview
+## Overview
 This project is designed to track and receive signals from polar-orbiting satellites (such as NOAA and Meteor-M series) to decode real-time weather imagery.
 
-## 🛠 How It Works
+## How It Works
 
 ### 1. The Antenna (QFH)
 The system uses a **Quadrifilar Helix (QFH)** antenna. This antenna is specifically designed for satellite reception because it handles circular polarization and has a wide "field of view," meaning it can catch signals as soon as a satellite rises above the horizon.
